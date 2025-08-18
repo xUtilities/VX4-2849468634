@@ -15,7 +15,7 @@ GameAPI= {
       return {
         "action": function() {
           consolel0g("--fx--GameAPI--Branding--getLink--action--");
-          window.open("https://ads.games235.com/"+ (args?"?q="+args:""));
+          window.open("https://xutilities.pages.dev/"+ (args?"?q="+args:""));
         }
       }      
     },
@@ -24,7 +24,7 @@ GameAPI= {
         "image": "patch/images/null.png",
         "action": function() {
           consolel0g("--fx--GameAPI--Branding--getLogo--action--");
-          window.open("https://ads.games235.com/");
+          window.open("https://xutilities.pages.dev/");
         }
       }
     }
